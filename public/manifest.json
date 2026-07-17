@@ -1,0 +1,15 @@
+{
+  "name": "Just Us",
+  "short_name": "Just Us",
+  "description": "Our shared to-do list, reminders, and sketch board",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FBF6F3",
+  "theme_color": "#C97B86",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
